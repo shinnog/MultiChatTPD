@@ -73,3 +73,5 @@ def iniciar_cliente(host='192.168.100.48', port=65432):
 
 if __name__ == "__main__":
     iniciar_cliente()
+
+#Juan Diego Espinoza Lopez
