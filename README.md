@@ -1,4 +1,4 @@
 Integrantes: 
 
-Guerrero Dávila Juan Carlos
-Ibarra Martínez Ximena Estefania
+- Guerrero Dávila Juan Carlos
+- Ibarra Martínez Ximena Estefania
