@@ -9,5 +9,3 @@
 ## Descripción
 MultiChat es una aplicación de chat en tiempo real desarrollada en Python. 
 Permite a los usuarios conectarse y comunicarse en tiempo real con otros usuarios.
-
-##Prueba de GitHub
